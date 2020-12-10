@@ -1,0 +1,13 @@
+package com.bennie.stringsassignment;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class StringsassignmentApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(StringsassignmentApplication.class, args);
+	}
+
+}
